@@ -6,7 +6,7 @@
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">NLP民工的乐园</div>
+    padding: 2px;">NLP民工的乐园 </div>
 </center>
 <br>
 
